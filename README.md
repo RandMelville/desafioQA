@@ -22,3 +22,7 @@ Qual arquitetura de testes você implantaria de forma que poderia ser integrada 
 Obs: Considere que o framework utilizado para o SDLC é o scrum.
 
 Que técnicas de testes e qualidade poderiam ser aplicadas nesse cenário para que a qualidade de novas features de seu marketplace não fossem afetadas?
+
+## Solução:
+
+A solução está na pasta Solution_P2019SERA, está em um PPT.
